@@ -1,0 +1,16 @@
+Introduction to nodejs  it is used to develop i/o intensive web application like video streaming sites,single page application 
+The v8 engine   -  nodejs is written itself in c++ and it converts the java script into machine code
+The global object - for example :dirname and filename
+function expressions - 
+         var name=function(){
+            console.log();
+         };
+name();
+
+
+modeules and requires() :
+
+var counter = function(arry){
+    return 'The number of '+arry.length + '\n done!';
+};
+console.log(counter(['vamsi']));

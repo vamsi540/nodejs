@@ -7,6 +7,14 @@ installing local package npm install package name --save
 uninstalling local package npm uninstall package name
 installing global package npm install package name -g
 uninstalling global package npm uninstall package name -g 
-listing packages - local and global 
-
+listing packages - local and global  for local :npm install moment --save and for global :npm install package name --save -g 
+and for development purpose :npm install moment -D (short cut)
+introduction to nodejs   nodejs: it  is primarily used for non-blocking, event-driven servers, due to its single-threaded nature
+installing node js
+npm scripting  : it is a convenient way to bundle common shell commands for your project
+shortcuts    eg:npm install moment -  npm i moment  
+npm prune      
+installing package json
+updating pacakges 
+npm versioning
 
